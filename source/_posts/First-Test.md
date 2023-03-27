@@ -6,4 +6,6 @@ tags:
 
 It's a first test for hexo!
 
+Thanks!
+
 ![trino](trino.png)
