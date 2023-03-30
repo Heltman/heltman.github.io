@@ -1669,10 +1669,10 @@ tr46@^3.0.0:
   dependencies:
     punycode "^2.1.1"
 
-truncate-html@1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/truncate-html/-/truncate-html-1.0.3.tgz#0166dfc7890626130c2e4174c6b73d4d63993e5f"
-  integrity sha512-1o1prdRv+iehXcGwn29YgXU17DotHkr+OK3ijVEG7FGMwHNG9RyobXwimw6djDvbIc24rhmz3tjNNvNESjkNkQ==
+truncate-html@1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/truncate-html/-/truncate-html-1.0.4.tgz#268de7ba2650d697d748f1692a78197a88886e9d"
+  integrity sha512-FpDAlPzpJ3jlZiNEahRs584FS3jOSQafgj4cC9DmAYPct6uMZDLY625+eErRd43G35vGDrNq3i7b4aYUQ/Bxqw==
   dependencies:
     "@types/cheerio" "^0.22.8"
     cheerio "0.22.0"
